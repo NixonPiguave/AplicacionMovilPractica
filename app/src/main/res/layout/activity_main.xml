@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.555"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_rawRes="@raw/sparkInteractive"
+        app:lottie_rawRes="@raw/spark_interactive"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -34,6 +34,6 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logouteq1" />
+        app:srcCompat="@drawable/logouteq_one" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
